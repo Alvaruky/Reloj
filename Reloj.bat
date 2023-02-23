@@ -5,3 +5,4 @@ echo Reloj con fecha Alvaruky
 echo %time% %date%
 timeout /t 1 > nul
 goto start
+
