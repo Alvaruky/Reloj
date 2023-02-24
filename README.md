@@ -1,5 +1,5 @@
 # **$\colorbox{lime}{{\color{white}{SCRIPT\ RELOJ}}}$**
-Reloj que te muestra la fecha y la hora en la terminal.  
+Script de reloj que te muestra la fecha y la hora en la terminal.  
 
 ## **$\textcolor{lime}{EXPLICACIÓN}$**
 En Batch, podemos usar el comando time /t para obtener la hora actual del sistema. Para obtener la fecha actual, podemos usar el comando date /t. Podemos usar estos comandos para mostrar la fecha y hora actual en un formato específico, para simular un reloj. Aquí hay un ejemplo de cómo hacerlo:  
