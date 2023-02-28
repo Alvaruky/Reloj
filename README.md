@@ -1,16 +1,25 @@
-# **$\colorbox{lime}{{\color{white}{SCRIPT\ RELOJ}}}$**
-Script de reloj que te muestra la fecha y la hora en la terminal.  
-
-## **$\textcolor{lime}{EXPLICACIÓN}$**
-En Batch, podemos usar el comando time /t para obtener la hora actual del sistema. Para obtener la fecha actual, podemos usar el comando date /t. Podemos usar estos comandos para mostrar la fecha y hora actual en un formato específico, para simular un reloj. Aquí hay un ejemplo de cómo hacerlo:  
-
-![Codigo](https://github.com/Alvaruky/Reloj/blob/main/assets/img/1.jpg)
-
-## **$\textcolor{lime}{FUNCIONAMIENTO}$**
-Este script mostrará un reloj con fecha en la pantalla, que se actualizará cada segundo. El comando cls se utiliza para borrar la pantalla antes de mostrar la fecha y hora actual. El comando echo se utiliza para mostrar la hora actual y la fecha actual en un formato específico. La opción /t se utiliza con los comandos time y date para mostrar solo la hora y la fecha, respectivamente.
-
-## **$\textcolor{lime}{RRSS}$**
-#### INSTAGRAM:
-@imalvaro__   @alvaruky.fdp
-#### YOUTUBE:
-Álvaro Fernández
+<h1 align="center"><strong>SCRIPT RELOJ</strong></h1>
+<p align="center">
+  Script de reloj que te muestra la fecha y la hora en la terminal.
+</p>
+<h2 align="center"><strong>EXPLICACIÓN</strong><h2>
+<p align="center">
+  En Batch, podemos usar el comando time /t para obtener la hora actual del sistema. Para obtener la fecha actual, podemos usar el comando date /t. Podemos usar estos     comandos para mostrar la fecha y hora actual en un formato específico, para simular un reloj. Aquí hay un ejemplo de cómo hacerlo:
+</p>
+<a href="ruta/de/la/página">
+  <img src="https://github.com/Alvaruky/Reloj/blob/main/assets/img/1.jpg" alt="Codigo-Script" style="display: block; margin: 0 auto; text-align: center;">
+</a>
+<h2 align="center"><strong>FUNCIONAMIENTO</strong><h2>
+<p align="center">
+  Este script mostrará un reloj con fecha en la pantalla, que se actualizará cada segundo. El comando cls se utiliza para borrar la pantalla antes de mostrar la fecha y   hora actual. El comando echo se utiliza para mostrar la hora actual y la fecha actual en un formato específico. La opción /t se utiliza con los comandos time y date     para mostrar solo la hora y la fecha, respectivamente.
+</p>
+<h2 align="left">RRSS<h2>
+<a href="https://www.youtube.com/c/AlvaroFernandezFDP" target="blank" style="margin-right: 4px">
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Alvaro Fernandez" height="28px" width="28px">
+</a>
+<a href="https://www.instagram.com/imalvaro__/?hl=es" target="blank" style='margin-right:4px'>
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="imalvaro__" height="28px" width="28px" />
+</a>
+<a href="https://www.tiktok.com/@alvaruky.fdp" target="blank" style='margin-right:4px'>
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="AlvarukyFDP" height="28px" width="28px" />
+</a>
