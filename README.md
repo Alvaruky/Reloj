@@ -8,7 +8,9 @@
   En Batch, podemos usar el comando time /t para obtener la hora actual del sistema. Para obtener la fecha actual, podemos usar el comando date /t. Podemos usar estos   comandos para mostrar la fecha y hora actual en un formato específico, para simular un reloj. Aquí hay un ejemplo de cómo hacerlo:
 </p>
 
-<img src="https://github.com/Alvaruky/Reloj/blob/main/assets/img/1.jpg" alt="Codigo-Script" style="display: block; margin: 0 auto; text-align:center">
+<p align="center">
+  <img src="https://github.com/Alvaruky/Reloj/blob/main/assets/img/1.jpg" alt="Placa MicroBit">
+</p>
 
 ## <h2 align="center"><strong>FUNCIONAMIENTO</strong><h2>
 <p align="center">
