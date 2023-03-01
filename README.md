@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Alvaruky/Reloj/blob/main/assets/img/1.jpg" alt="Placa MicroBit">
+  <img src="https://github.com/Alvaruky/Reloj/blob/main/assets/img/1.jpg" alt="Script-Reloj">
 </p>
 
 ## <h2 align="center"><strong>FUNCIONAMIENTO</strong><h2>
