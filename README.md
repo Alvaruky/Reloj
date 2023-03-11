@@ -1,4 +1,4 @@
-# <h1 align="center"><strong>SCRIPT RELOJ</strong></h1>
+# <h1 align="center"><strong>- SCRIPT RELOJ -</strong></h1>
 <p align="center">
   Script de reloj que te muestra la fecha y la hora en la terminal.
 </p>
